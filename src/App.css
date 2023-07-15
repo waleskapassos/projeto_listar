@@ -1,0 +1,32 @@
+.texto{
+
+    color:beige;
+    font-size: 1em;
+    font-size: 20px
+}
+
+.produtos{
+
+    justify-content: space-evenly;
+    color:black;
+    font-size: 1em;
+    font-size: 20px;
+    font-style:unset;
+    font-weight:lighter;
+  
+    
+ 
+}
+
+.bloco {
+    display: inline-block;
+    text-align: justify;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background-color:white;
+}
